@@ -1,0 +1,94 @@
+body {
+  background-image: url(/images/Background.jpeg);
+  background-size: 17%;
+  background-repeat: repeat;
+
+  
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: "Courgette", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+  max-width: 300;
+}
+
+p {
+  display: block;
+  text-align: center;
+  margin: auto;
+  max-width: 60%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h2 {
+  font-family: "Courgette", cursive;
+  color: #929291;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+div {
+  align-items: center;
+}
+
+#gatos {
+  display: block;
+  margin: auto;
+  max-width: 30%;
+}
+
+ol {
+  display: table;
+  margin: auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+  font-family: "Courgette", cursive;
+  clear: both;
+  position: relative;
+  min-height: 20px;
+  background-color: #a9a9a7;
+  color: rgb(26, 26, 26);
+  text-align: center;
+}
+
+nav{
+    background-color: white;
+    width: 75%;
+    display: block;
+    margin: auto;
+    opacity: 0.95;
+}
+
+article{
+    background-color: white;
+    width: 75%;
+    display: block;
+    margin: auto;
+    opacity: 0.95;
+
+}
+
+footer {
+    font-family: "Courgette", cursive;
+
+   
+    min-height: 30px;
+    background-color: #f3894b;
+    color: rgb(26, 26, 26);
+    text-align: center;
+    width: 75%;
+    display: block;
+    margin: auto;
+    
+  }
